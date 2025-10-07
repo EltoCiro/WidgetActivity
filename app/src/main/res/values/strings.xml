@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WidgetActivity</string>
+
+    <!-- Pantalla de Registro -->
+    <string name="registro_titulo">Registro de Usuario</string>
+    <string name="registro_subtitulo">Completa tus datos para crear una cuenta</string>
+
+    <!-- Campos de texto -->
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+
+    <!-- Botones -->
+    <string name="btn_registrar">Registrar</string>
+
+    <!-- Mensajes de error -->
+    <string name="error_nombre_vacio">El nombre es obligatorio</string>
+    <string name="error_nombre_corto">El nombre debe tener al menos 3 caracteres</string>
+    <string name="error_email_vacio">El correo electrónico es obligatorio</string>
+    <string name="error_email_invalido">Ingresa un correo electrónico válido</string>
+    <string name="error_password_vacia">La contraseña es obligatoria</string>
+    <string name="error_password_corta">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_password_no_coincide">Las contraseñas no coinciden</string>
+
+    <!-- Mensajes de éxito -->
+    <string name="registro_exitoso">¡Registro exitoso! Bienvenido/a %1$s</string>
+</resources>
